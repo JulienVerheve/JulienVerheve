@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Cover](https://github.com/JulienVerheve/JulienVerheve/blob/master/coverpic.jpg)
+
 <!--
 **JulienVerheve/JulienVerheve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
